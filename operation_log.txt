@@ -1,0 +1,7 @@
+INFO:root:Merged PDFs into C:\Users\91939\OneDrive\Desktop\merge.pdf
+INFO:root:Split page 1 to clear\page_1.pdf
+INFO:root:Split page 2 to clear\page_2.pdf
+INFO:root:Split page 1 to week-3\page_1.pdf
+INFO:root:Split page 2 to week-3\page_2.pdf
+INFO:root:Split page 3 to week-3\page_3.pdf
+INFO:root:Split page 4 to week-3\page_4.pdf
